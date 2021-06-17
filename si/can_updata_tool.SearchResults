@@ -1,0 +1,7 @@
+---- ParsePackage Matches (6 in 2 files) ----
+CRule.cs (d:\tws\rd\德威乐\cmmi\5.调试软件\上位机\源文件\can_updatetool\loganalysistool):        virtual public ParseResult ParsePackage(ref ArrayList irReceived, ref Frame_Stu ruleinfo, ref int startindex, ref int endindex) { return ParseResult.OK; }
+CRule.cs (d:\tws\rd\德威乐\cmmi\5.调试软件\上位机\源文件\can_updatetool\loganalysistool):        public override ParseResult ParsePackage(ref ArrayList irReceived, ref Frame_Stu ruleinfo, ref int startindex, ref int endindex)
+CRule.cs (d:\tws\rd\德威乐\cmmi\5.调试软件\上位机\源文件\can_updatetool\loganalysistool):        public override ParseResult ParsePackage(ref ArrayList irReceived, ref Frame_Stu ruleinfo, ref int startindex, ref int endindex)
+MainFrame.cs (d:\tws\rd\德威乐\cmmi\5.调试软件\上位机\源文件\can_updatetool\loganalysistool):                    switch (Rule.ParsePackage(ref ReceivedDataBuff, ref RuleInfo, ref startindex, ref endindex))
+MainFrame.cs (d:\tws\rd\德威乐\cmmi\5.调试软件\上位机\源文件\can_updatetool\loganalysistool):                        switch (Rule.ParsePackage(ref ReceivedDataBuff, ref RuleInfo, ref startindex, ref endindex))
+MainFrame.cs (d:\tws\rd\德威乐\cmmi\5.调试软件\上位机\源文件\can_updatetool\loganalysistool):                    switch (Rule.ParsePackage(ref ReceivedDataBuff, ref RuleInfo, ref startindex, ref endindex))
